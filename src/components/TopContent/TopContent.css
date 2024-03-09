@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Anton&family=Cabin&family=Crimson+Text&family=DM+Serif+Display&family=Montserrat:wght@300;400;600&family=Poppins:ital@0;1&family=Rock+Salt&display=swap');
+
+.topcontent {
+    color: azure;
+    position: relative;
+}
+
+.topContant__container{
+    position: absolute;
+    top: 250px;
+    right: 250px;
+}
+.topContant__container>h3{
+    font-family: 'Montserrat', sans-serif;
+    color: azure;
+    font-size: 30px;
+    font-weight: 600;
+}
+.topContant__container > p  {
+    color: azure;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: left;
+    padding-left: 3px;
+    padding-top: 20px;
+    font-weight: 400;
+}
+
+.topContant__container >a >button{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border-radius: 2px;
+    outline:none ;
+}
+.topcontant__downbutton {
+     
+    color: white;
+    border: 1px solid white ;
+    background-color: transparent ;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 9px 45px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.topcontant__Interestbutton {
+    color: white;
+    border: 1px solid white !important ;
+    background-color: transparent ;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 11px 45px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.topcontant__downbutton:hover {
+     
+    color : teal;
+    background-color: white;
+    font-weight: 600;
+}
+.topcontant__Interestbutton:hover {
+    color : teal;
+    background-color: white;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

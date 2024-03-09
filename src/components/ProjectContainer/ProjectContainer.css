@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Anton&family=Cabin&family=Crimson+Text&family=DM+Serif+Display&family=Montserrat:wght@300;400;600&family=Poppins:ital@0;1&family=Rock+Salt&display=swap');
+
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    color: azure;
+    margin: 200px 0px ;
+    justify-content: center;
+    align-items: center;
+}
+.projectContainer > h2 {
+    padding-bottom: 15px ;
+}
+.projectContainer > p {
+    padding-bottom: 20px;
+}
+
+.projectContainer__projects {
+
+   display: flex;
+   width: 60vw;
+   margin-top: 15px;
+
+   
+
+  
+   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
